@@ -13,3 +13,4 @@
 | 66  | Plus One                     | Iterative               | O(n)           | [iterative](./66.%20Plus%20One/Plus_One.cpp)                        | 2025 - 06 - 10 |
 | 989 | Add to Array-Form of Integer | Iterative               | O(n)           | [iterative](./989.%20Add%20to%20Array-Form%20of%20Integer/Add_to_Array-Form_of_Integer.cpp) | 2025 - 06 - 10 |
 | 67  | Add Binary                   | Iterative               | O(n)           | [iterative](./67.%20Add%20Binary/Add_Binary.cpp)                    | 2025 - 06 - 10 |
+| 136 | Single Number                 | XOR                    | O(n)           | [XOR](./136.%20Single%20Number/)              | 2025 - 06 - 18 |
