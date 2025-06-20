@@ -13,4 +13,5 @@
 | 66  | Plus One                     | Iterative               | O(n)           | [iterative](./66.%20Plus%20One/Plus_One.cpp)                        | 2025 - 06 - 10 |
 | 989 | Add to Array-Form of Integer | Iterative               | O(n)           | [iterative](./989.%20Add%20to%20Array-Form%20of%20Integer/Add_to_Array-Form_of_Integer.cpp) | 2025 - 06 - 10 |
 | 67  | Add Binary                   | Iterative               | O(n)           | [iterative](./67.%20Add%20Binary/Add_Binary.cpp)                    | 2025 - 06 - 10 |
-| 136 | Single Number                 | XOR                    | O(n)           | [XOR](./136.%20Single%20Number/)              | 2025 - 06 - 18 |
+| 136 | Single Number                 | XOR                    | O(n)           | [XOR](./136.%20Single%20Number/Single_Number.cpp)              | 2025 - 06 - 18 |
+| 121 | Best Time to Buy and Sell Stock | Iterative             | O(n)          | [iterative](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Time_to_Buy_and_Sell_Stock.cpp)                                                | 2025 - 06 - 20 |
