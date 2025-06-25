@@ -16,3 +16,6 @@
 | 136 | Single Number                | XOR                     | O(n)           | [XOR](./136.%20Single%20Number/Single_Number.cpp)              | 2025 - 06 - 18 |
 | 121 | Best Time to Buy and Sell Stock | Iterative            | O(n)           | [iterative](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Time_to_Buy_and_Sell_Stock.cpp)                                                | 2025 - 06 - 20 |
 | 70 | Climbing Stairs               | Tabulation              | O(n)           | [tabulation](./70.%20Climbing%20Stairs/Climbing_Stairs_Tabulation.cpp)                                                    | 2025 - 06 - 20 | 
+| 112 | Path Sum                     | Depth First Search       | O(n)          | [dfs](./112.%20Path%20Sum/Path_Sum.cpp)       | 2025 - 06 - 25 |
+| 191 | Number of 1 Bits            | Convert to string         | O(n)          | [convert](./191.%20Number%20of%201%20Bits/Number_of_1_Bits.cpp) | 2025 - 06 - 25 | 
+| 231 | Power of Two                  | Recursive               | O(log n)      | [recursive](./231.%20Power%20of%20Two/Power_of_Two.cpp)   | 2025 - 06 - 25 | |
