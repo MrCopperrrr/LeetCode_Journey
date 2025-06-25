@@ -1,7 +1,7 @@
 # 🟢 Easy Problems
 
-| ID  | Problem Name                 | Idea / Approach         | Time Complexity | Code                                                                 | Date Solved     | Note |
-|-----|------------------------------|-------------------------|-----------------|----------------------------------------------------------------------|----------------|------|
+| ID  | Problem Name                 | Idea / Approach         | Time Complexity | Code                                                                 | Date Solved   |
+|-----|------------------------------|-------------------------|-----------------|----------------------------------------------------------------------|----------------|
 | 1   | Two Sum                      | Brute force             | O(n²)          | [bruteforce](./1.%20Two%20Sum/two_sum_bruteforce.cpp)               | 2025 - 06 - 05 |
 | 9   | isPalindrome                 | Reverse string          | O(n)           | [reverse](./9.%20isPalindrome/isPalidrome_reverse_string.cpp)       | 2025 - 06 - 05 |
 | 13  | Roman to Integer             | If / Hashmap / Switch case  | O(n)           | [hashmap](./13.%20Roman%20to%20Integer/Roman_to_Integer_hashmap.cpp), [if](./13.%20Roman%20to%20Integer/Roman_to_Integer_if.cpp), [switch](./13.%20Roman%20to%20Integer/Roman_to_Integer_switch_case.cpp) | 2025 - 06 - 05 |
