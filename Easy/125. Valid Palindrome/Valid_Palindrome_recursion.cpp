@@ -1,17 +1,15 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        return isPalindromeRec(s, 0, s.length() - 1);
+        return fun(s, 0, s.length() - 1);
     }
 
-    bool isPalindromeRec(const string& s, int left, int right) {
-        while (left < right && !isalnum(s[left])) left++;
-        while (left < right && !isalnum(s[right])) right--;
-        
-        if (left >= right) return true;
+    bool fun(const string& s, int L, int R){
+        while (L < R && !isalnum(s[L])) L++;
+        while (L < R && !isalnum(s[R])) R--;
 
-        if (tolower(s[left]) != tolower(s[right])) return false;
-
-        return isPalindromeRec(s, left + 1, right - 1);
+        if(L >= R) return true;
+        if(tolower(s[L]) != tolower(s[R])) return false;
+        return fun(s, L + 1, R - 1);
     }
 };
