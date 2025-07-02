@@ -21,3 +21,4 @@
 | 231 | Power of Two                  | Recursive / Loop               | O(log n) / O(log n)    | [recursive](./231.%20Power%20of%20Two/Power_of_Two_recursive.cpp), [loop](./231.%20Power%20of%20Two/Power_of_Two_loop.cpp)   | 2025 - 06 - 25 | 
 | 326 | Power of Three                  | Recursive / Loop               | O(log n) / O(log n)    | [recursive](./326.%20Power%20of%20Three/Power_of_Three_recursive.cpp), [loop](./326.%20Power%20of%20Three/Power_of_Three_loop.cpp)   | 2025 - 06 - 25 | 
 | 342 | Power of Four                  | Recursive / Loop               | O(log n) / O(log n)    | [recursive](./342.%20Power%20of%20Four/Power_of_Four_recursive.cpp), [loop](./342.%20Power%20of%20Four/Power_of_Four_loop.cpp)   | 2025 - 06 - 25 | 
+| 125 | Valid Palindrome                | Recursive                     | O(n)                      |[recursive](./125.%20Valid%20Palindrome/Valid_Palindrome_recursion.cpp)        | 2025 - 07 - 02 |
